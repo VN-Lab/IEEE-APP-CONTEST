@@ -5,7 +5,7 @@ It is able to update government guidelines from time to time.
 This app also provides quick information and helps you to dial emergency number or shows nearest hospital / doctor in case you develop novel corona virus symptoms.
 
 The features of the app includes:
-1.  Satistics about the people affected
+1.  Statistics about the people affected
 2.  Protection measures 
 3.  Latest news & updates
 4.  Guides to help work from home
