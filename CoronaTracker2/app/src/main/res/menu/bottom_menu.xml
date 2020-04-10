@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/home"
+    android:icon="@drawable/ic_home_black_24dp"
+    android:title="Home"/>
+    <item
+        android:id="@+id/remainder"
+        android:icon="@drawable/ic_notifications_active_black_24dp"
+        android:title="Remainder"/>
+    <item
+        android:id="@+id/emergency"
+        android:icon="@drawable/ic_local_hospital_black_24dp"
+        android:title="Emergency"/>
+    <item
+        android:id="@+id/family"
+        android:icon="@drawable/ic_people_outline_black_24dp"
+        android:title="Family"/>
+</menu>
